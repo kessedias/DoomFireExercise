@@ -1,3 +1,6 @@
+body{
+    background-color: black;
+}
 table{
     border-collapse: collapse;
     border: 1px solid #000;
@@ -27,4 +30,9 @@ td.pixel{
    width: 4px;
    height: 4px;
    border: 0;
+}
+
+#fireCanvas{
+   margin: 0 auto;
+   width: 400px;
 }
