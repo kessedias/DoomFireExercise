@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to e DoomFire 👋</h1>
+<h1 align="center">Welcome to DoomFire 👋</h1>
 
 
 > DoomFire Exercise
